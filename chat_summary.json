@@ -6,5 +6,11 @@
         "timestamp": "1723053805",
         "component_file_name": "",
         "div_id": ""
+    },
+    {
+        "role": "user",
+        "content": "add a navbar with the fields home, about and contact",
+        "timestamp": "07082024180334",
+        "message_id": "mymessageid"
     }
 ]
